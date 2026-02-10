@@ -1,7 +1,17 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-👋 Hi, I'm Shubhi Upadhyay, A data science student passionate about using analytics, visualization, and automation to make sense of data, I enjoy breaking down complex information and transforming it into clear insights that create real impact.<br><br>🔹 Skills & Tools:<br><br>Power BI & Tableau – Interactive dashboards & reports<br>Python (Pandas, NumPy, Matplotlib, Seaborn) – Data analysis & visualization<br>R – Statistical analysis & data modeling<br>Forecasting & Trend Analysis – Business insights & predictions<br><br>💡 What I Work On:<br><br>Building insightful business intelligence dashboards<br>Analyzing trends to drive data-driven decision-making<br>Automating workflows for efficiency<br>Exploring new ways to enhance data storytelling<br><br>🚀 Let's Collaborate!<br>I love connecting with like-minded professionals. Feel free to explore my projects and reach out!
+👋 Hi, I'm Shubhi Upadhyay, A data science student passionate about using analytics, visualization, and automation to make sense of data, I enjoy breaking down complex information and transforming it into clear insights that create real impact.<br><br>
+🔹 Skills & Tools:<br>• Power BI – Interactive dashboards, reports, DAX basics & data modeling<br>• Python (Pandas, NumPy, Matplotlib, Seaborn) – Data analysis, preprocessing & visualization<br>• Machine Learning – Classification & regression models, model evaluation, data preparation<br>• Deep Learning – Fundamentals of neural networks, basic model implementation<br>• Natural Language Processing (NLP) – Text preprocessing, tokenization, basic text analysis<br>• Forecasting & Trend Analysis – Time-series based analysis and business insights using historical data<br>
+
+
+📄 Research Work:<br>
+• Author of a research paper on Bharatanatyam hand gestures (Mudras), focusing on their structure, meaning, and cultural significance  
+• Presented at an academic conference (paper accepted and presented)  
+• Research involved documentation, analysis, and interpretation of traditional art forms  
+
+<br>💡 What I Work On:<br>• Building interactive data dashboards and reports using Power BI<br>• Analyzing datasets to identify trends, patterns, and insights<br>• Working on machine learning models for classification and prediction tasks<br>• Exploring deep learning fundamentals and neural network concepts<br>• Performing text analysis using basic NLP techniques<br>• Creating data-driven solutions for academic projects and real-world use cases<br><br>🚀 Let's Collaborate!<br>I love connecting with like-minded professionals. Feel free to explore my projects and reach out!
+
 
 
 ## 🌐 Socials:
